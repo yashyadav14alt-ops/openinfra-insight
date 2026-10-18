@@ -1,0 +1,12 @@
+﻿2026-10-18T06:12:11Z INFO PU-01 sample accepted reading=71.4 source=synthetic
+2026-10-18T06:12:19Z INFO PU-03 sample accepted reading=85.2 source=synthetic
+2026-10-18T06:13:03Z WARN PU-03 temperature above reference threshold value=88.0 expected_max=78.0
+2026-10-18T06:14:22Z INFO WT-01 valve pressure stable reading=14.1 source=synthetic
+2026-10-18T06:15:42Z WARN WT-02 pressure outside reference threshold value=18.0 expected_max=16.0
+2026-10-18T06:18:09Z INFO FN-02 sample accepted vibration=56.0 source=synthetic
+2026-10-18T06:20:01Z WARN FN-02 vibration above reference threshold value=57.0 expected_max=48.0
+2026-10-18T06:21:11Z INFO PU-02 sample accepted reading=68.7 source=synthetic
+2026-10-18T06:22:53Z INFO WT-03 sample accepted reading=12.4 source=synthetic
+2026-10-18T06:24:19Z INFO FN-04 sample accepted vibration=28.5 source=synthetic
+2026-10-18T06:26:50Z WARN PU-03 maintenance window approaching days=9
+2026-10-18T06:28:05Z INFO WT-04 sample accepted pressure=9.1 source=synthetic
