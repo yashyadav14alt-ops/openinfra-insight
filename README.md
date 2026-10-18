@@ -1,4 +1,4 @@
-﻿# OpenInfra Insight
+# OpenInfra Insight
 
 ### Asset signals that a person can actually explain.
 
@@ -64,11 +64,3 @@ A responsible next iteration would begin with domain-reviewed public data, an ag
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-The dashboard has a static browser demo using only local sample data. Open `index.html` directly or publish it with GitHub Pages; it requires no account, build step, or third-party request. For the optional local JSON API, use Python 3.10 or later. The API server uses only Python's standard library.
-
-```powershell
-python app.py
-```
-
-Open [http://127.0.0.1:8000](http://127.0.0.1:8000) for the API-backed mode. Stop the server with `Ctrl+C`. The server binds to loopback only, so the API is available only on the same computer. When the API is not present, the dashboard automatically uses the bundled synthetic sample. To publish the browser demo, configure GitHub Pages to deploy the repository's `main` branch from the root directory.
